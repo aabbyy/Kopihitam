@@ -38,7 +38,7 @@ if(x=="16"){xxx="/2017/08/experia.html"}
 if(x=="17"){xxx="/2017/08/forex.html"}
 if(x=="18"){xxx="/2017/08/asthma.html"}
 if(x=="19"){xxx="/2017/08/adsense.html"}
-if(x=="20"){xxx="/2017/08/cancer.html"}a_to_ve[i].href="https://kopihitamsafelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="20"){xxx="/2017/08/cancer.html"}a_to_ve[i].href="https://kopihitamsafelink.blogspot.co.id"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
